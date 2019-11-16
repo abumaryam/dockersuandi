@@ -1,6 +1,10 @@
-### anon-ftp: An quick, anonymous ftp server docker image
+# Docker SUANDI (Super User AND I)
 
-This image is meant for running something like a public read-only share. User accounts are *not* supported and all data access is meant to be read only via ftp anonymous login.
+### Modifikasi dari anon-ftp: An quick, anonymous ftp server docker image
+
+Image ini untuk membuat docker sistem SUANDI
+
+
 
 #### Up-and-Running
 
